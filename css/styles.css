@@ -1,12 +1,18 @@
 /*MOST CONTENT IS TEMPORARY*/
 
-.header {
-
-    width: auto;
+.jumbotron text-center header {
     background-color: red;
 }
 
 .footer {
     width: auto;
     background-color: blue;
+}
+
+.title {
+    text-align: center;
+}
+
+.btna {
+    align-items: center;
 }
